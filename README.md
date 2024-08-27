@@ -1,14 +1,23 @@
-Proje Yapısı
+## Proje Yapısı
 Next.js 14 ve Tailwind CSS kullanarak bir Rick and Morty karakter listeleme ve filtreleme uygulaması oluşturdum. 
+
 Bu uygulama, SSR (Server-Side Rendering) kullanılarak oluşturulmuştur ve karakterler status ve gender gibi filtrelere göre listelenebilir.
 
-Kullanım Talimatları
-Başlatmak için:
+## Kullanım Talimatları
+
+## Başlatmak için:
+
 npm install veya yarn ile gerekli paketleri yükleyin.
+
 npm run dev veya yarn dev komutu ile geliştirme sunucusunu başlatın.
+
 Bu yapı, karakterlerin filtrelenmesi ve SSR kullanarak verilerin alınması işlevlerini sağlar. Kullanıcılar, karakterleri status ve gender filtreleri kullanarak arayabilirler.
 
 ```bash
+npm install
+# or
+yarn install
+#and
 npm run dev
 # or
 yarn dev
